@@ -1,6 +1,6 @@
 Package.describe({
   name: 'fourquet:routes',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'An extension of kadira:flow-router to work with fourquet:actions',
   git: 'https://github.com/fourquet/meteor-package-routes',
   documentation: 'README.md',
@@ -9,7 +9,7 @@ Package.describe({
 
 const packages = [
   'ecmascript',
-  'kadira:flow-router@2.10.0',
+  'kadira:flow-router@2.10.1',
   'fourquet:actions@0.0.1',
 ];
 
